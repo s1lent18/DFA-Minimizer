@@ -1,0 +1,10 @@
+The C++ File contains the code for DFA(Deterministic Finite Automata) minimization using Partition theorem
+
+You Will have to provide:
+- number of states
+- number of alphabets 
+- number of final states
+- final states
+
+The states start from q0
+After providing the inputs, the transition table will be generated for the minimized dfa
