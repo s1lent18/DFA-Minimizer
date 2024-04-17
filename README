@@ -1,8 +1,8 @@
 The C++ File contains the code for DFA(Deterministic Finite Automata) minimization using Partition theorem
 
-You Will have to provide:
+You Will have to provide as input:
 - number of states
-- number of alphabets 
+- number of Variables
 - number of final states
 - final states
 
